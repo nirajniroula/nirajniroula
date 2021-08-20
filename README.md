@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+- I’m currently working on a private project (a mobile application made with react-native).  
+- Beside that, I’m also trying to learn some basics of web information security.  
+
+⚡ Let this learning journey of ours never end.
+
 
 <!--
 **nirajniroula/nirajniroula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
