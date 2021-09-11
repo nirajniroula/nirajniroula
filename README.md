@@ -1,6 +1,5 @@
 ### Hi there 👋 
-- I’m currently working on a private project (a mobile application made with react-native).  
-- Beside that, I’m also trying to learn some basics of web information security.  
+🌱 I’m currently working on a private project (a mobile application made with react-native). Beside that, I’m also trying to sync (trying to stay updated) with native android development and also learning some basics of web information security.  
 
 ⚡ Let this learning journey of ours never end.
 
